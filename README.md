@@ -6,10 +6,11 @@ I am a Computer Science student with interests in working in the world of financ
 
 <p>
   <a href="https://www.linkedin.com/in/david-amadeo-2759061a8/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" style="width:300%"> LinkedIn
   </a> &nbsp; 
+  <br/>
   <a href="https://github.com/davidamadeo" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+    <img src="https://i.stack.imgur.com/tskMh.png" alt="github" style="width:300%"> Github
   </a>
 </p>
 
