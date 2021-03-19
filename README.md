@@ -7,15 +7,20 @@ I am a Computer Science student with interests in working in the world of financ
 ---
 
 ### You can find me around the internet 🌐
-<h5>
-  <a href="https://www.linkedin.com/in/david-amadeo-2759061a8/" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin" style="width:300%"> LinkedIn
-  </a> &nbsp; 
-  <br/>
-  <a href="https://github.com/davidamadeo" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/tskMh.png" alt="github" style="width:300%"> Github
-  </a>
-</h5>
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
+
+ [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "//github.com/USERNAME"
+
+ [[params.social]]
+    icon = "twitter"
+    icon_pack = "fa"
+    link = "//twitter.com/USERNAME"
 
 <!--
 **davidamadeo/davidamadeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
