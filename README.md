@@ -4,23 +4,9 @@ I am a Computer Science student with interests in working in the world of financ
 
 🔭 I am currently interning in one of the most prestigious Insurance and Investment Brokerage in Indonesia. Currently working to develop and improve insurtech in Indonesia, finding new ways and adapt to provide Insurance in this ever changing world due to recent events and the rapid technological progress.
 
----
-
 ### You can find me around the internet 🌐
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
-
- [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "//github.com/USERNAME"
-
- [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = "//twitter.com/USERNAME"
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)LinkedIn]{https://www.linkedin.com/in/david-amadeo-2759061a8/)
 
 <!--
 **davidamadeo/davidamadeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
