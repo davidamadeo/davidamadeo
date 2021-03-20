@@ -5,7 +5,7 @@
 </a>
 <br/>
 <a href="https://www.twitter.com/davidamadeo/" rel="nofollow nonreferrer:>
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter:>
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter">
 </a>
 
 🖥️ I am a Computer Science student with interests in working in the world of finance and technology! Continuously immproving in programming, full stack development, APIs, and microservices. I am passionate in innovation and create products that can elevate the quality of people's lives.
